@@ -73,17 +73,7 @@ The objective is to identify key factors affecting employee attrition and provid
 
 ## 📷 Dashboard Preview
 
-Upload your dashboard screenshot as:
-
-```text
-dashboard.png
-```
-
-Then add:
-
-```markdown
-![Dashboard](dashboard.png)
-```
+<img width="1326" height="762" alt="Dashboard" src="https://github.com/user-attachments/assets/b5472ec4-5763-4043-a6d2-9c9acd4c9194" />
 
 ---
 
